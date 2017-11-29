@@ -384,7 +384,7 @@
     "description": "C\u00f4te d'Ivoire",
     "whoisServer": "whois.nic.ci",
     "patterns": {
-        "notRegistered": "/not found/"
+        "notRegistered": "/No Object Found/"
     }
 }, {
     "tld": "ck",
@@ -1398,12 +1398,7 @@
 }, {
     "tld": "tn",
     "description": "Tunisia",
-    "whoisServer": "whois.tn",
-     "patterns": {
-        "notRegistered" : "/NO OBJECT FOUND!/"
-    }
-
-
+    "whoisServer": null
 }, {
     "tld": "to",
     "description": "Tonga",
@@ -2744,10 +2739,7 @@
     }
 }, {
     "tld": "moe",
-    "description": "moe",
-    "whoisServer": "whois.nic.moe",
-    "patterns": {
-        "notRegistered": "/The queried object does not exist/"
+    "description": "Moe"
 }, {
     "tld": "monash",
     "description": "Monash",
